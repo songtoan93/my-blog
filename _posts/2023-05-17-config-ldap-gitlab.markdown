@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Configure LDAP Gitlab"
-date:   2023-04-26 18:18:00 +0700
-categories: first post
+date:   2023-05-17 18:18:00 +0700
+categories: gitlab
 ---
 
 To configure LDAP integration, add your LDAP server settings in:
